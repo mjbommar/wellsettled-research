@@ -1,0 +1,11 @@
+PyYAML==3.11
+argparse==1.2.1
+astroid==1.1.1
+logilab-common==0.61.0
+lxml==3.3.5
+nltk==2.0.4
+pep8==1.5.6
+pylint==1.2.1
+python-dateutil==2.2
+six==1.6.1
+wsgiref==0.1.2
