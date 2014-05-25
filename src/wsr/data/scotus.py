@@ -4,7 +4,7 @@ The :mod:`wsr.data.scotus` handles reading and pre-processing the Supreme
 Court dataset to extract opinion text.
 
 Author: Michael J Bommarito II <michael@bommaritollc.com>
-Date: 2014-05-24 
+Date: 2014-05-24
 """
 
 # WSR imports
@@ -15,6 +15,7 @@ import dateutil.parser
 import lxml.etree
 import zipfile
 
+# WSR imports
 
 def get_text(element):
     '''
@@ -42,7 +43,7 @@ def read_xml_document(file_buffer):
     try:
         xml_doc = lxml.etree.fromstring(file_buffer)
         return xml_doc
-    except Exception, e:
+    except Exception:
         return None
 
 def read_xml_docket(xml_doc):
@@ -69,6 +70,7 @@ def read_xml_date(xml_doc):
 
             try:
                 date_text = date_text.lower().strip().strip(".")
+                date_text = date_text.replace("term", " ")
                 return dateutil.parser.parse(date_text).date()
             except ValueError:
                 return None
@@ -107,6 +109,9 @@ def read_xml_opinion(xml_doc):
     """
     
     # Parse only the opinion_text elements
+    if not xml_doc:
+        return ""
+    
     for element in list(xml_doc):
         if element.tag == "opinion_text":
             return get_text(element)
@@ -157,12 +162,3 @@ class SCOTUS(object):
 
         # Load ZIP data
         self.load_zip_data()
-
-
-if __name__ == "__main__":
-    scotus = SCOTUS()
-    for file_name in scotus.scotus_document_list[0:50]:
-        # Print the XML doc
-        print(file_name)
-        doc = read_xml_document(scotus.read_document(file_name))
-        print(read_xml_citation_list(doc))
