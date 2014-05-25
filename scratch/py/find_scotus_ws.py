@@ -57,7 +57,10 @@ if __name__ == "__main__":
     for ws in ws_list:
         try:
             # Parse sentence
-            parse_sentence = sentence_parser.raw_parse(ws[2])
+            try:
+                parse_sentence = sentence_parser.raw_parse(ws[2])
+            except:
+                parse_sentence = None
             
             # Write
             sentence_file.write('{0}\t{1}\t{2}\t{3}\n'.format(ws[0], ws[1],
