@@ -1,0 +1,1673 @@
+file	parsed
+supreme_court_of_the_united_states/documents/ffe9aa0960327eb4.xml	(ROOT
+  (NP
+    (NP (NNP BUFALINO) (CC v.) (NNP HOLLAND))
+    (, ,)
+    (NP
+      (NP (CD 364) (NNP U.S.) (CD 863))
+      (PRN
+        (-LRB- -LRB-)
+        (NP (NNP U.S.) (CD 10-17-1960))
+        (-RRB- -RRB-))
+      (NP (NNP United) (NNPS States) (NNP Supreme) (NNP Court)))
+    (. .)))
+supreme_court_of_the_united_states/documents/ffe9aa0960327eb4.xml	(ROOT (FRAG (NP (NNP October) (CD 17)) (, ,) (NP (CD 1960)) (. .)))
+supreme_court_of_the_united_states/documents/ffe9aa0960327eb4.xml	(ROOT
+  (NP
+    (NP (NNP Leon) (NNP H.) (NNP Kline))
+    (PP (IN for) (NP (NN petitioner)))
+    (. .)))
+supreme_court_of_the_united_states/documents/ffe9aa0960327eb4.xml	(ROOT
+  (NP
+    (NP (NN Reported) (RB below))
+    (: :)
+    (NP (NNP 277) (NNP F.) (NNPS 2d) (NNP 270))
+    (. .)))
+supreme_court_of_the_united_states/documents/ffe9aa0960327eb4.xml	(ROOT
+  (NP
+    (NP (NNP BUFALINO) (CC v.) (NNP HOLLAND))
+    (, ,)
+    (NP
+      (NNP DISTRICT)
+      (NNP DIRECTOR)
+      (, ,)
+      (NNP IMMIGRATION)
+      (CC AND)
+      (NNP NATURALIZATION)
+      (NNP SERVICE))
+    (. .)))
+supreme_court_of_the_united_states/documents/ffe9aa0960327eb4.xml	(ROOT (S (NP (NN No.)) (VP (VBZ 254)) (. .)))
+supreme_court_of_the_united_states/documents/ffe9aa0960327eb4.xml	(ROOT
+  (NP
+    (NP (NNP Solicitor) (NNP General) (NNP Rankin))
+    (, ,)
+    (NP (NNP Assistant) (NNP Attorney) (NNP General) (NNP Wilkey))
+    (, ,)
+    (NP (NNP Beatrice) (NNP Rosenberg))
+    (CC and)
+    (NP
+      (NP (NNP Theodore) (NNP George) (NNP Gilinsky))
+      (PP (IN for) (NP (NN respondent))))
+    (. .)))
+supreme_court_of_the_united_states/documents/ffe9aa0960327eb4.xml	(ROOT
+  (S
+    (NP (NNP C.A.) (NNP 3d) (NNP Cir) (. .) (NNP Certiorari))
+    (VP (VBD denied))
+    (. .)))
+supreme_court_of_the_united_states/documents/9b5a4a624df1ad9a.xml	(ROOT (NP (NP (NN No.)) (NP (CD 06-7351)) (. .)))
+supreme_court_of_the_united_states/documents/9b5a4a624df1ad9a.xml	(ROOT (S (NP (NNP Certiorari)) (VP (VBN Denied)) (. .)))
+supreme_court_of_the_united_states/documents/9b5a4a624df1ad9a.xml	(ROOT
+  (NP
+    (NP (NNP PENNINGTON) (CC v.) (NNP U.S.))
+    (, ,)
+    (NP
+      (NP (CD 549) (NNP U.S.) (CD 1067))
+      (PRN (-LRB- -LRB-) (NP (CD 2006)) (-RRB- -RRB-))
+      (NP (NNP 127) (NNP S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/9b5a4a624df1ad9a.xml	(ROOT
+  (S
+    (NP (NNP 694) (NNP PENNINGTON) (CC v.) (NNP UNITED))
+    (VP (VBZ STATES))
+    (. .)))
+supreme_court_of_the_united_states/documents/9b5a4a624df1ad9a.xml	(ROOT (FRAG (NP (NNP November) (CD 27)) (, ,) (NP (CD 2006)) (. .)))
+supreme_court_of_the_united_states/documents/9b5a4a624df1ad9a.xml	(ROOT
+  (S
+    (NP (NNP C.A.) (NNP 8th) (NNP Cir) (. .) (NNP Certiorari))
+    (VP (VBD denied))
+    (. .)))
+supreme_court_of_the_united_states/documents/6cb17c63cc354e39.xml	(ROOT (FRAG (NP (NNP November) (CD 7)) (, ,) (NP (CD 2005)) (. .)))
+supreme_court_of_the_united_states/documents/6cb17c63cc354e39.xml	(ROOT
+  (NP
+    (NP (NNP NESE) (CC v.) (NNP JULIAN))
+    (, ,)
+    (NP
+      (NP (CD 546) (NNP U.S.) (CD 1003))
+      (PRN (-LRB- -LRB-) (NP (CD 2005)) (-RRB- -RRB-))
+      (NP (NNP 126) (NNP S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/6cb17c63cc354e39.xml	(ROOT
+  (NP
+    (NP (NNP 623) (NNP NESE) (CC v.) (NNP JULIAN))
+    (NP
+      (NNP NORDIC)
+      (NNP CONSTRUCTION)
+      (NNP CO.)
+      (. .)
+      (NNP ET)
+      (NNP AL.)
+      (. .)
+      (NN No.)
+      (NN 05-277))
+    (. .)))
+supreme_court_of_the_united_states/documents/6cb17c63cc354e39.xml	(ROOT
+  (S
+    (NP
+      (NNP Certiorari)
+      (NNP Denied)
+      (NNP C.A.)
+      (NNP 7th)
+      (NNP Cir)
+      (. .)
+      (NNP Certiorari))
+    (VP (VBD denied))
+    (. .)))
+supreme_court_of_the_united_states/documents/6cb17c63cc354e39.xml	(ROOT
+  (NP
+    (NP (NN Reported) (RB below))
+    (: :)
+    (NP (CD 405) (NNP F.) (JJ 3d) (NNS 638))
+    (. .)))
+supreme_court_of_the_united_states/documents/469b0fd943c73eda.xml	(ROOT
+  (NP
+    (NP (NNP HERRERA) (CC v.) (NNP U.S.))
+    (, ,)
+    (NP
+      (NP (NNP 546) (NNP U.S.) (NNP 802))
+      (PRN (-LRB- -LRB-) (NP (CD 2005)) (-RRB- -RRB-))
+      (NP (NNP 126) (NNP S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/469b0fd943c73eda.xml	(ROOT (FRAG (NP (NNP October) (CD 3)) (, ,) (NP (CD 2005)) (. .)))
+supreme_court_of_the_united_states/documents/469b0fd943c73eda.xml	(ROOT
+  (NP
+    (NP (NNP Certiorari) (NNP Granted))
+    (: --)
+    (NP
+      (NP
+        (NNP Vacated)
+        (CC and)
+        (NNP Remanded)
+        (NNP C.A.)
+        (NNP 10th)
+        (NNP Cir)
+        (. .))
+      (NP (NN No.) (CD 04-10394)))
+    (. .)))
+supreme_court_of_the_united_states/documents/469b0fd943c73eda.xml	(ROOT
+  (S
+    (S (NP (NNP Certiorari)) (VP (VBD granted)))
+    (PRN (, ,) (S (NP (NNS judgments)) (VP (VBD vacated))) (, ,))
+    (CC and)
+    (S
+      (NP (NNS cases))
+      (VP
+        (VBD remanded)
+        (PP (IN for) (NP (JJ further) (NN consideration)))
+        (PP
+          (IN in)
+          (NP
+            (NP (NN light))
+            (PP
+              (IN of)
+              (NP
+                (NP (NNP United) (NNP States) (CC v.) (NNP Booker))
+                (, ,)
+                (NP
+                  (NP (CD 543) (NNP U.) (NNP S.) (CD 220))
+                  (PRN (-LRB- -LRB-) (NP (CD 2005)) (-RRB- -RRB-)))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/469b0fd943c73eda.xml	(ROOT
+  (S
+    (NP (NNP 103) (NNP HERRERA) (CC v.) (NNP UNITED))
+    (VP (VBZ STATES))
+    (. .)))
+supreme_court_of_the_united_states/documents/469b0fd943c73eda.xml	(ROOT (NP (NP (NN No.)) (NP (CD 04-10379)) (. .)))
+supreme_court_of_the_united_states/documents/469b0fd943c73eda.xml	(ROOT (NP (NNP MARSHALL) (CC v.) (NNP UNITED) (NNP STATES) (. .)))
+supreme_court_of_the_united_states/documents/469b0fd943c73eda.xml	(ROOT
+  (S
+    (NP
+      (NP (NNP C.A.) (NNP 9th) (NNP Cir) (. .) (NNP Reported))
+      (PP
+        (IN below)
+        (: :)
+        (NP
+          (NP (CD 120))
+          (SBAR
+            (S
+              (NP (NNP Fed) (. .) (NNP Appx) (. .) (NNP 680))
+              (: ;)
+              (VP
+                (VBZ Motions)
+                (PP
+                  (IN of)
+                  (NP
+                    (NP (NNS petitioners))
+                    (PP (IN for) (NP (NN leave)))))
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB proceed)
+                      (PP (IN in) (NP (FW forma) (NNS pauperis))))))))))))
+    (VP (VBD granted))
+    (. .)))
+supreme_court_of_the_united_states/documents/f33e7ef4f1418865.xml	(ROOT (NP (NNP Page) (NNP 1039)))
+supreme_court_of_the_united_states/documents/f33e7ef4f1418865.xml	(ROOT
+  (NP
+    (NP (NNP SIMS) (CC v.) (NNP MILLER-STOUT))
+    (, ,)
+    (NP
+      (NP (CD 546) (NNP U.S.) (CD 1038))
+      (PRN (-LRB- -LRB-) (NP (CD 2005)) (-RRB- -RRB-))
+      (NP (NNP 126) (NNP S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/f33e7ef4f1418865.xml	(ROOT (FRAG (NP (NNP November) (CD 28)) (, ,) (NP (CD 2005)) (. .)))
+supreme_court_of_the_united_states/documents/f33e7ef4f1418865.xml	(ROOT
+  (NP
+    (NP (NNP 744) (NNP SIMS) (CC v.) (NNP MILLER-STOUT))
+    (, ,)
+    (NP
+      (NP (NNP SUPERINTENDENT))
+      (, ,)
+      (NP (NNP AIRWAY) (NNP HEIGHTS) (NNP CORRECTIONS) (NNP CENTER)))
+    (. .)))
+supreme_court_of_the_united_states/documents/f33e7ef4f1418865.xml	(ROOT (NP (NP (NN No.)) (NP (CD 05-6518)) (. .)))
+supreme_court_of_the_united_states/documents/f33e7ef4f1418865.xml	(ROOT
+  (S
+    (NP
+      (NNP Certiorari)
+      (NNP Denied)
+      (NNP C.A.)
+      (NNP 9th)
+      (NNP Cir)
+      (. .)
+      (NNP Certiorari))
+    (VP (VBD denied))
+    (. .)))
+supreme_court_of_the_united_states/documents/f33e7ef4f1418865.xml	(ROOT
+  (FRAG
+    (FRAG (ADVP (RB Reported)) (ADVP (RB below)))
+    (: :)
+    (FRAG
+      (NP (NNP 136) (NNP Fed))
+      (. .)
+      (NP (NNP Appx))
+      (. .)
+      (NP (CD 78))
+      (. .))))
+supreme_court_of_the_united_states/documents/72589ddc3585161a.xml	(ROOT
+  (NP
+    (NP (NNP 2401) (NNP BOY) (NNP SCOUTS))
+    (PP (IN OF) (NP (NNP AMERICA)))
+    (, ,)
+    (NP (NNP ET) (NNP AL.) (CC v.) (NNP LORI) (NNP BARNES-WALLACE))
+    (, ,)
+    (NP
+      (NP (NNP ET) (NNP AL) (NNP No.) (NNP 08-1222))
+      (NP (NNP May) (CD 3) (, ,) (CD 2010)))
+    (. .)))
+supreme_court_of_the_united_states/documents/72589ddc3585161a.xml	(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP BOY) (NNP SCOUTS))
+        (PP
+          (IN OF)
+          (NP
+            (NNP AMERICA)
+            (CC v.)
+            (NNP BARNES-WALLACE)
+            (, ,)
+            (CD 08-1222))))
+      (PRN (-LRB- -LRB-) (NP (NNP U.S.) (CD 5-3-2010)) (-RRB- -RRB-)))
+    (VP (VBZ 130) (NP (NNP S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/72589ddc3585161a.xml	(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS petitions))
+      (PP
+        (IN for)
+        (NP (NP (NNS writs)) (PP (IN of) (NP (NNS certiorari))))))
+    (VP (VBP are) (VP (VBN denied)))
+    (. .)))
+supreme_court_of_the_united_states/documents/72589ddc3585161a.xml	(ROOT (NP (NNP Page) (NNP 3)))
+supreme_court_of_the_united_states/documents/4ccbb0c96c4524e6.xml	(ROOT (NP (NP (NN No.)) (NP (CD 03-10011)) (. .)))
+supreme_court_of_the_united_states/documents/4ccbb0c96c4524e6.xml	(ROOT
+  (S
+    (NP (NNP C.A.) (NNP 3d) (NNP Cir) (. .) (NNP Certiorari))
+    (VP (VBD denied))
+    (. .)))
+supreme_court_of_the_united_states/documents/4ccbb0c96c4524e6.xml	(ROOT
+  (NP
+    (NP (NNP MELENDEZ) (CC v.) (NNP U.S.))
+    (, ,)
+    (NP
+      (NP (CD 541) (NNP U.S.) (CD 1080))
+      (PRN (-LRB- -LRB-) (NP (CD 2004)) (-RRB- -RRB-))
+      (NP (NNP MELENDEZ) (CC v.) (NNP UNITED) (NNP STATES)))
+    (. .)))
+supreme_court_of_the_united_states/documents/4ccbb0c96c4524e6.xml	(ROOT
+  (S
+    (NP (NNP CERTIORARI))
+    (VP
+      (VBZ TO)
+      (NP
+        (NP (DT THE) (NNP UNITED) (NNP STATES) (NNP COURT))
+        (PP
+          (IN OF)
+          (NP
+            (NP (NNS APPEALS))
+            (PP (IN FOR) (NP (DT THE) (NNP THIRD) (NNP CIRCUIT)))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/4ccbb0c96c4524e6.xml	(ROOT (FRAG (NP (NNP June) (CD 1)) (, ,) (NP (CD 2004)) (. .)))
+supreme_court_of_the_united_states/documents/4ccbb0c96c4524e6.xml	(ROOT
+  (FRAG
+    (FRAG (ADVP (RB Reported)) (ADVP (RB below)))
+    (: :)
+    (FRAG
+      (NP (NNP 88) (NNP Fed))
+      (. .)
+      (NP (NNP Appx))
+      (. .)
+      (NP (CD 529))
+      (. .))))
+supreme_court_of_the_united_states/documents/10cdc07a501324b5.xml	(ROOT
+  (NP
+    (NP
+      (NNP NESGODA)
+      (CC v.)
+      (NNP U.S.)
+      (, ,)
+      (NNP 08-10968)
+      (PRN
+        (-LRB- -LRB-)
+        (NP (NNP U.S.) (CD 10-5-2009))
+        (-RRB- -RRB-))
+      (NNP LEE)
+      (NNP R.)
+      (NNP NESGODA)
+      (CC v.)
+      (NNP UNITED)
+      (NNS STATES)
+      (NN No.))
+    (ADJP (JJ 08-10968) (NP (NNP October) (CD 5) (, ,) (CD 2009)))
+    (. .)))
+supreme_court_of_the_united_states/documents/10cdc07a501324b5.xml	(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS petitions))
+      (PP
+        (IN for)
+        (NP (NP (NNS writs)) (PP (IN of) (NP (NNS certiorari))))))
+    (VP (VBP are) (VP (VBN denied)))
+    (. .)))
+supreme_court_of_the_united_states/documents/10cdc07a501324b5.xml	(ROOT (NP (NNP Page) (NNP 32)))
+supreme_court_of_the_united_states/documents/d989f05f8f117b41.xml	(ROOT (S (VP (VB Ct.)) (. .)))
+supreme_court_of_the_united_states/documents/d989f05f8f117b41.xml	(ROOT
+  (S
+    (NP
+      (NP (NNP JEWELL) (CC v.) (NNP COX) (NNP ENTERPRISES))
+      (, ,)
+      (NP (NNP INC.))
+      (, ,))
+    (VP
+      (VBZ 537)
+      (NP
+        (NP
+          (NNP U.S.)
+          (NNP 814)
+          (PRN (-LRB- -LRB-) (NP (CD 2002)) (-RRB- -RRB-))
+          (NNP JEWELL))
+        (PP
+          (CC v.)
+          (NP
+            (NP
+              (NNP COX)
+              (NNP ENTERPRISES)
+              (, ,)
+              (NNP INC.)
+              (, ,)
+              (NNP ET)
+              (NNP AL.)
+              (. .)
+              (NNP CERTIORARI))
+            (VP
+              (VBG TO)
+              (NP
+                (NP (DT THE) (NN COURT))
+                (PP
+                  (IN OF)
+                  (NP
+                    (NP (NNS APPEALS))
+                    (PP (IN OF) (NP (NNP GEORGIA)))))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/d989f05f8f117b41.xml	(ROOT (FRAG (NP (NNP App)) (. .) (NP (NNP Ga.)) (. .)))
+supreme_court_of_the_united_states/documents/d989f05f8f117b41.xml	(ROOT (S (NP (NNP Certiorari)) (VP (VBD denied)) (. .)))
+supreme_court_of_the_united_states/documents/d989f05f8f117b41.xml	(ROOT (NP (NNS 2d) (CD 175) (. .)))
+supreme_court_of_the_united_states/documents/d989f05f8f117b41.xml	(ROOT (NP (NP (NN No.)) (NP (CD 01-1627)) (. .)))
+supreme_court_of_the_united_states/documents/d989f05f8f117b41.xml	(ROOT (FRAG (NP (NNP October) (CD 7)) (, ,) (NP (CD 2002)) (. .)))
+supreme_court_of_the_united_states/documents/d989f05f8f117b41.xml	(ROOT
+  (NP
+    (NP (NN Reported) (RB below))
+    (: :)
+    (NP (NNP 251) (NNP Ga.))
+    (. .)))
+supreme_court_of_the_united_states/documents/d989f05f8f117b41.xml	(ROOT
+  (NP
+    (NP (NNP App) (. .))
+    (NP (NP (CD 808)) (, ,) (NP (NNP 555) (NNP S.E.)))))
+supreme_court_of_the_united_states/documents/14665a7098797607.xml	(ROOT
+  (S
+    (NP
+      (CD 1517)
+      (NNP CARL)
+      (NNP L.)
+      (NNP LINYARD)
+      (CC v.)
+      (NNP UNITED)
+      (NNS STATES)
+      (NN No.))
+    (VP (VBD 10-8176) (NP (NNP February) (CD 22) (, ,) (CD 2011)))
+    (. .)))
+supreme_court_of_the_united_states/documents/14665a7098797607.xml	(ROOT
+  (NP
+    (NP (NNP LINYARD) (CC v.) (NNP U.S.))
+    (, ,)
+    (NP
+      (NP (CD 10-8176))
+      (PRN
+        (-LRB- -LRB-)
+        (NP (NNP U.S.) (CD 2-22-2011))
+        (-RRB- -RRB-))
+      (NP (NNP 131) (NNP S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/14665a7098797607.xml	(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS petitions))
+      (PP
+        (IN for)
+        (NP (NP (NNS writs)) (PP (IN of) (NP (NNS certiorari))))))
+    (VP (VBP are) (VP (VBN denied)))
+    (. .)))
+supreme_court_of_the_united_states/documents/14665a7098797607.xml	(ROOT (NP (NN Page) (CD 15)))
+supreme_court_of_the_united_states/documents/55ab611aabe6f683.xml	(ROOT
+  (S
+    (NP
+      (CD 1493)
+      (NNP KIM)
+      (NNP PURNELL)
+      (CC v.)
+      (NNP WARDEN)
+      (NNP COHEN)
+      (NN No.))
+    (VP (VBD 10-7939) (NP (NNP February) (CD 22) (, ,) (CD 2011)))
+    (. .)))
+supreme_court_of_the_united_states/documents/55ab611aabe6f683.xml	(ROOT
+  (NP
+    (NP (NNP PURNELL) (CC v.) (NNP COHEN))
+    (, ,)
+    (NP
+      (NP (CD 10-7939))
+      (PRN
+        (-LRB- -LRB-)
+        (NP (NNP U.S.) (CD 2-22-2011))
+        (-RRB- -RRB-))
+      (NP (NNP 131) (NNP S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/55ab611aabe6f683.xml	(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS petitions))
+      (PP
+        (IN for)
+        (NP (NP (NNS writs)) (PP (IN of) (NP (NNS certiorari))))))
+    (VP (VBP are) (VP (VBN denied)))
+    (. .)))
+supreme_court_of_the_united_states/documents/55ab611aabe6f683.xml	(ROOT (NP (NNP Page) (NNP 11)))
+supreme_court_of_the_united_states/documents/46ac55fc68d09c5f.xml	(ROOT
+  (NP
+    (NP (NNP JONES) (CC v.) (NNP BOOK))
+    (, ,)
+    (NP
+      (NP (CD 07-6291))
+      (PRN
+        (-LRB- -LRB-)
+        (NP (NNP U.S.) (CD 10-29-2007))
+        (-RRB- -RRB-))
+      (NP (NNP 128) (NNP S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/46ac55fc68d09c5f.xml	(ROOT
+  (NP
+    (NP
+      (NNP 508)
+      (NNP CHRISTOPHER)
+      (NNP A.)
+      (NNP JONES)
+      (CC v.)
+      (NNP BILL)
+      (NNP BOOK))
+    (, ,)
+    (NP
+      (NP (NNP ET) (NNP AL.) (. .) (NNP No.))
+      (ADJP (JJ 07-6291) (NP (NNP October) (CD 29) (, ,) (CD 2007))))
+    (. .)))
+supreme_court_of_the_united_states/documents/46ac55fc68d09c5f.xml	(ROOT
+  (S
+    (NP (NNP CERTIORARI))
+    (VP
+      (VBD DENIED)
+      (SBAR
+        (S
+          (NP
+            (NP (DT The) (NN petition))
+            (PP
+              (IN for)
+              (NP (NP (NN writ)) (PP (IN of) (NP (NNS certiorari))))))
+          (VP (VBZ is) (VP (VBN denied))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (NP
+    (NP
+      (NP (NNP Revenue) (NNP Act))
+      (PP
+        (IN of)
+        (NP
+          (NP (CD 1926))
+          (, ,)
+          (NP
+            (NP
+              (NP (QP (CD \xa7) (CD 204)))
+              (PRN (-LRB- -LRB-) (X (SYM c)) (-RRB- -RRB-)))
+            (PRN (-LRB- -LRB-) (NP (CD 2)) (-RRB- -RRB-))))))
+    (: ;)
+    (NP
+      (NP
+        (NP (QP (CD \xa7) (CD 214)))
+        (PRN (-LRB- -LRB-) (X (SYM a)) (-RRB- -RRB-)))
+      (PRN (-LRB- -LRB-) (NP (CD 9)) (-RRB- -RRB-)))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (NP
+    (NP (NNP O'DONNELL))
+    (, ,)
+    (NP
+      (NP (NNP 303) (NNP U.S.) (NNP 370))
+      (PRN (-LRB- -LRB-) (NP (CD 1938)) (-RRB- -RRB-))
+      (NP (CD 58) (NN S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (NP (EX there))
+        (VP (VBD were) (NP (DT no) (JJ net) (NNS profits)))))
+    (, ,)
+    (NP (NN nothing))
+    (VP
+      (MD would)
+      (VP (VB be) (ADJP (JJ payable) (PP (TO to) (NP (PRP him))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (FRAG
+    (ADJP (JJ Argued) (NP (NNP February) (CD 9) (, ,) (CD 10)))
+    (, ,)
+    (NP (CD 1938))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (S
+    (NP (NNP CERTIORARI))
+    (VP
+      (VBZ TO)
+      (NP
+        (NP (DT THE) (JJ CIRCUIT) (NN COURT))
+        (PP
+          (IN OF)
+          (NP
+            (NP (NNS APPEALS))
+            (PP (IN FOR) (NP (DT THE) (NNP NINTH) (NNP CIRCUIT)))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (S
+    (PP
+      (IN As)
+      (NP
+        (NP (NN consideration))
+        (PP
+          (IN for)
+          (NP
+            (NP (DT the) (NN sale))
+            (PP
+              (IN of)
+              (NP
+                (NP (PRP$ his) (NN stock))
+                (PP
+                  (IN in)
+                  (NP
+                    (NP
+                      (DT the)
+                      (NNP San)
+                      (NNP Gabriel)
+                      (NN Company)
+                      (NN respondent))
+                    (VP
+                      (VP (VBN bargained) (PP (IN for)))
+                      (CC and)
+                      (VP
+                        (VBN obtained)
+                        (NP (DT an) (JJ economic) (NN advantage))
+                        (PP
+                          (IN from)
+                          (NP
+                            (NP
+                              (DT the)
+                              (NNP Midway)
+                              (NNP Company)
+                              (POS 's))
+                            (NNS operations)))))))))))))
+    (NP
+      (CC but)
+      (NP (DT that) (NN advantage))
+      (CC or)
+      (NP (NN profit)))
+    (VP
+      (VBD did)
+      (RB not)
+      (VP
+        (VB constitute)
+        (NP (DT a) (JJ depletable) (NN interest))
+        (PP
+          (IN in)
+          (NP
+            (NP (DT the) (NN oil) (CC and) (NN gas))
+            (PP (IN in) (NP (NN place)))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (S
+    (NP (NNP Prescott))
+    (VP
+      (VBD were)
+      (PP (IN on) (NP (DT the) (NN brief)))
+      (, ,)
+      (PP (IN for) (NP (NN petitioner))))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT (S (NP (NN No.)) (VP (VBZ 406)) (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT (FRAG (NP (CD 1277)) (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT (S (VP (VB Sewall) (NP (NNP Key) (CC and) (NNP A.F.)))))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (S
+    (PP
+      (IN By)
+      (NP
+        (NP (NN contract))
+        (PP (IN of) (NP (NNP January) (CD 9) (, ,) (CD 1918)))))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VBD sold)
+      (NP (DT this) (NN stock))
+      (PP
+        (TO to)
+        (NP
+          (NP (DT the) (NNP Petroleum) (NNP Midway) (NNP Company))
+          (, ,)
+          (NP (NNP Ltd.)))))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT (S (NP (NNP HELVERING)) (VP (VBP v)) (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (S
+    (VP (VBN Decided) (NP (NNP March) (CD 7) (, ,) (CD 1938)))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (NP
+    (NP (NP (NNP Palmer) (CC v.) (NNP Bender)) (, ,) (NP (NN supra)))
+    (: ;)
+    (NP
+      (NP (NNP Helvering) (CC v.) (NNP Bankline) (NNP Oil) (NNP Co.))
+      (, ,)
+      (NP (NN supra)))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT (S (VP (VB O'DONNELL)) (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (NP
+    (NP
+      (NP (NNP Assistant) (NNP Solicitor) (NNP General) (NNP Bell))
+      (, ,)
+      (PP (IN with) (NP (WP whom))))
+    (NP
+      (NP (NNP Solicitor) (NNP General) (NNP Reed))
+      (, ,)
+      (NP (NNP Assistant) (NNP Attorney) (NNP General) (NNP Morris))
+      (, ,)
+      (CC and)
+      (NP (NNP Messrs.)))))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT (NP (NP (CD 90) (NNP F.) (NNS 2d)) (NP (CD 907)) (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (S (NP (PRP We)) (VP (VBD granted) (NP (NNS certiorari))) (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (S
+    (NP (DT No) (NN trust))
+    (VP
+      (VBD was)
+      (VP
+        (VBN declared)
+        (PP
+          (IN by)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (NN respondent))
+              (VP
+                (MD could)
+                (VP
+                  (VB claim)
+                  (NP
+                    (NP (DT an) (ADJP (JJ equitable)) (NN interest))
+                    (PP (IN in) (NP (DT the) (NN res)))))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/812c3e7b4a412b38.xml	(ROOT
+  (S
+    (NP
+      (NP (NNP MR.) (NNP JUSTICE) (NNP CARDOZO))
+      (CC and)
+      (NP (NNP MR.) (NNP JUSTICE) (NNP REED)))
+    (VP
+      (VBD took)
+      (NP (DT no) (NN part))
+      (PP
+        (IN in)
+        (NP
+          (NP (DT the) (NN consideration) (CC and) (NN decision))
+          (PP (IN of) (NP (DT this) (NN case))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/719df466f0c40637.xml	(ROOT
+  (S
+    (NP (NNP C.A.) (NNP 11th) (NNP Cir) (. .) (NNP Certiorari))
+    (VP (VBD denied))
+    (. .)))
+supreme_court_of_the_united_states/documents/719df466f0c40637.xml	(ROOT
+  (NP
+    (NP (NNP DENNIS) (CC v.) (NNP DEPT.) (. .))
+    (PP
+      (IN OF)
+      (NP
+        (NP (NNP JUSTICE))
+        (, ,)
+        (NP (NNP 543) (NNP U.S.) (NNP 884))
+        (PRN (-LRB- -LRB-) (NP (CD 2004)) (-RRB- -RRB-))
+        (NP (CD 125) (NN S.Ct))))
+    (. .)))
+supreme_court_of_the_united_states/documents/719df466f0c40637.xml	(ROOT (S (NP (NNP Certiorari)) (VP (VBN Denied)) (. .)))
+supreme_court_of_the_united_states/documents/719df466f0c40637.xml	(ROOT
+  (NP
+    (NP (CD 96) (NNS DENNIS))
+    (PP (CC v.) (NP (NNP DEPARTMENT)))
+    (PP
+      (IN OF)
+      (NP
+        (NNP JUSTICE)
+        (NNP ET)
+        (NNP AL.)
+        (. .)
+        (NN No.)
+        (NN 04-5143)))
+    (. .)))
+supreme_court_of_the_united_states/documents/719df466f0c40637.xml	(ROOT (FRAG (NP (NNP October) (CD 4)) (, ,) (NP (CD 2004)) (. .)))
+supreme_court_of_the_united_states/documents/719df466f0c40637.xml	(ROOT
+  (S
+    (-LRB- -LRB-)
+    (NP (NNP See))
+    (ADVP (RB also))
+    (VP (VBZ No.) (NP (NP (CD 03-10259)) (, ,) (NP (NN supra))))
+    (. .)))
+supreme_court_of_the_united_states/documents/719df466f0c40637.xml	(ROOT (NP (FW -RRB-) (. .)))
+supreme_court_of_the_united_states/documents/a94e127eb3b8f25d.xml	(ROOT
+  (NP
+    (NP (NNP TAMAYO-TAPIA) (CC v.) (NNP UNITED) (NNP STATES))
+    (, ,)
+    (NP
+      (NP (CD 543) (NNP U.S.) (CD 1171))
+      (PRN (-LRB- -LRB-) (NP (CD 2005)) (-RRB- -RRB-))
+      (NP (CD 125) (NN S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/a94e127eb3b8f25d.xml	(ROOT (FRAG (NP (NNP February) (CD 22)) (, ,) (NP (CD 2005)) (. .)))
+supreme_court_of_the_united_states/documents/a94e127eb3b8f25d.xml	(ROOT (S (NP (NNP Certiorari)) (VP (VBD denied)) (. .)))
+supreme_court_of_the_united_states/documents/a94e127eb3b8f25d.xml	(ROOT (NP (NNP Page) (NNP 1172)))
+supreme_court_of_the_united_states/documents/a94e127eb3b8f25d.xml	(ROOT
+  (S
+    (NP (NNP 1361) (NNP TAMAYO-TAPIA) (CC v.) (NNP UNITED))
+    (VP (VBZ STATES))
+    (. .)))
+supreme_court_of_the_united_states/documents/a94e127eb3b8f25d.xml	(ROOT (NP (NP (NN No.)) (NP (CD 04-8031)) (. .)))
+supreme_court_of_the_united_states/documents/a94e127eb3b8f25d.xml	(ROOT
+  (S
+    (NP (NNP C.A.) (NNP 9th) (NNP Cir) (. .) (NNP Certiorari))
+    (VP (VBD denied))
+    (. .)))
+supreme_court_of_the_united_states/documents/a94e127eb3b8f25d.xml	(ROOT
+  (FRAG
+    (FRAG (ADVP (RB Reported)) (ADVP (RB below)))
+    (: :)
+    (FRAG
+      (NP (NNP 104) (NNP Fed))
+      (. .)
+      (NP (NNP Appx))
+      (. .)
+      (NP (CD 674))
+      (. .))))
+supreme_court_of_the_united_states/documents/1218f4ecc9aa67ad.xml	(ROOT
+  (S
+    (VP
+      (VBN Reported)
+      (PP
+        (IN below)
+        (: :)
+        (S (NP (NNP 385) (NNP F.)) (VP (VBG 3d) (NP (CD 101))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/1218f4ecc9aa67ad.xml	(ROOT
+  (NP
+    (NP (NNP PARDUE) (CC v.) (NNP UNITED) (NNP STATES))
+    (, ,)
+    (NP
+      (NP (CD 543) (NNP U.S.) (CD 1169))
+      (PRN (-LRB- -LRB-) (NP (CD 2005)) (-RRB- -RRB-))
+      (NP (CD 125) (NN S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/1218f4ecc9aa67ad.xml	(ROOT (FRAG (NP (NNP February) (CD 22)) (, ,) (NP (CD 2005)) (. .)))
+supreme_court_of_the_united_states/documents/1218f4ecc9aa67ad.xml	(ROOT
+  (S
+    (NP (NNP 1353) (NNP PARDUE) (CC v.) (NNP UNITED))
+    (VP (VBZ STATES))
+    (. .)))
+supreme_court_of_the_united_states/documents/1218f4ecc9aa67ad.xml	(ROOT (NP (NP (NN No.)) (NP (CD 04-7920)) (. .)))
+supreme_court_of_the_united_states/documents/1218f4ecc9aa67ad.xml	(ROOT (S (NP (NNP Certiorari)) (VP (VBD denied)) (. .)))
+supreme_court_of_the_united_states/documents/1218f4ecc9aa67ad.xml	(ROOT
+  (S
+    (NP (NNP C.A.) (NNP 1st) (NNP Cir) (. .) (NNP Certiorari))
+    (VP (VBD denied))
+    (. .)))
+supreme_court_of_the_united_states/documents/51b83b48370be1af.xml	(ROOT
+  (NP
+    (NP
+      (NNP TORRES-TONTLE)
+      (CC v.)
+      (NNP U.S.)
+      (, ,)
+      (NNP 09-5219)
+      (PRN
+        (-LRB- -LRB-)
+        (NP (NNP U.S.) (CD 10-5-2009))
+        (-RRB- -RRB-))
+      (NNP JOSE)
+      (NNP A.)
+      (NNP TORRES-TONTLE)
+      (CC v.)
+      (NNP UNITED)
+      (NNS STATES)
+      (NN No.))
+    (ADJP (JJ 09-5219) (NP (NNP October) (CD 5) (, ,) (CD 2009)))
+    (. .)))
+supreme_court_of_the_united_states/documents/51b83b48370be1af.xml	(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN petition))
+      (PP
+        (IN for)
+        (NP (NP (NN writ)) (PP (IN of) (NP (NNS certiorari))))))
+    (VP (VBZ is) (VP (VBN denied)))
+    (. .)))
+supreme_court_of_the_united_states/documents/51b83b48370be1af.xml	(ROOT (NP (NNP Page) (NNP 46)))
+supreme_court_of_the_united_states/documents/9b45f83f3862c31b.xml	(ROOT (NP (NP (NN No.)) (NP (CD 04-9449)) (. .)))
+supreme_court_of_the_united_states/documents/9b45f83f3862c31b.xml	(ROOT (S (NP (NNP Certiorari)) (VP (VBN Denied)) (. .)))
+supreme_court_of_the_united_states/documents/9b45f83f3862c31b.xml	(ROOT
+  (NP
+    (NP (NNP OSBORNE) (CC v.) (NNP UNITED) (NNP STATES))
+    (, ,)
+    (NP
+      (NP (CD 544) (NNP U.S.) (CD 1009))
+      (PRN (-LRB- -LRB-) (NP (CD 2005)) (-RRB- -RRB-))
+      (NP (CD 125) (NN S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/9b45f83f3862c31b.xml	(ROOT
+  (S
+    (NP (NNP 1965) (NNP OSBORNE) (CC v.) (NNP UNITED))
+    (VP (VBZ STATES))
+    (. .)))
+supreme_court_of_the_united_states/documents/9b45f83f3862c31b.xml	(ROOT (FRAG (NP (NNP April) (CD 25)) (, ,) (NP (CD 2005)) (. .)))
+supreme_court_of_the_united_states/documents/9b45f83f3862c31b.xml	(ROOT
+  (S
+    (NP (NNP C.A.) (NNP 6th) (NNP Cir) (. .) (NNP Certiorari))
+    (VP (VBD denied))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN act))
+      (PP (IN of) (NP (NNP March) (CD 3) (, ,) (CD 1875)))
+      (, ,)
+      (SBAR
+        (WHPP (IN under) (WHNP (WDT which)))
+        (S
+          (NP (DT this) (NN removal))
+          (VP (VBD was) (VP (VBN asked)))))
+      (, ,))
+    (VP
+      (VBZ requires)
+      (PP
+        (PP
+          (IN of)
+          (NP
+            (NP (DT the) (NN party))
+            (VP
+              (VBG seeking)
+              (NP (PRP it))
+              (SBAR
+                (IN that)
+                (S
+                  (NP (PRP he) (CC or) (PRP they))
+                  (`` ``)
+                  (VP
+                    (VBP make)
+                    (CC and)
+                    (VBP file)
+                    (NP
+                      (NP (DT a) (NN petition))
+                      (PP (IN in) (NP (JJ such) (NN suit))))
+                    (PRN
+                      (, ,)
+                      (PP
+                        (IN in)
+                        (NP (JJ such) (NN State) (NN court)))
+                      (, ,))))))
+            (ADVP (IN before))))
+        (CC or)
+        (PP
+          (IN at)
+          (NP
+            (NP (DT the) (NN term))
+            (SBAR
+              (WHPP (IN at) (WHNP (WDT which)))
+              (S
+                (NP (JJ such) (NN cause))
+                (VP
+                  (MD could)
+                  (VP (VB be) (VP (ADVP (RB first)) (VBN tried))))))))
+        (, ,)
+        (CC and)
+        (PP (IN before) (NP (DT the) (NN trial))))
+      (ADVP (RB thereof))
+      (, ,)
+      (PP
+        (IN for)
+        (NP
+          (NP (DT the) (NN removal))
+          (PP
+            (IN of)
+            (NP
+              (NP (JJ such) (NN suit))
+              (PP (IN into) (NP (DT the) (NNP Circuit) (NNP Court))))))))
+    (. .)
+    ('' '')))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VBZ is)
+      (RB not)
+      (NP (DT the) (NN time))
+      (SBAR
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the) (NN case))
+            (VP
+              (VBZ stands)
+              (ADJP
+                (JJ ready)
+                (PP
+                  (IN for)
+                  (NP
+                    (NP (NN trial))
+                    (PP (IN on) (NP (DT the) (NN calendar)))))))))
+        (, ,)
+        (CC but)
+        (SBAR
+          (WHNP (DT the) (NN term) (WHPP (IN at) (WHNP (WDT which))))
+          (S
+            (NP (PRP it))
+            (VP
+              (MD could)
+              (VP (VB be) (VP (ADVP (RB first)) (VBN tried))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (PP
+      (IN Under)
+      (NP (NP (DT the) (NN act)) (PP (IN of) (NP (CD 1789)))))
+    (, ,)
+    (S
+      (NP
+        (NP (NNP \xa7) (CD 12) (, ,) (CD 1))
+        (NP (NNP Stat) (. .))
+        (NP
+          (NP (CD 79))
+          (, ,)
+          (NP
+            (NP (DT the) (NN right))
+            (PP (IN of) (NP (NN removal))))))
+      (VP
+        (MD could)
+        (ADVP (RB only))
+        (VP
+          (VB be)
+          (VP
+            (VBN exercised)
+            (PP
+              (IN by)
+              (NP
+                (NP (DT a) (NN defendant))
+                (PP
+                  (IN in)
+                  (NP
+                    (NP (DT a) (NN court))
+                    (PP
+                      (IN of)
+                      (NP
+                        (NP (DT a) (NN State))
+                        (SBAR
+                          (WHPP (IN of) (WHNP (WDT which)))
+                          (S
+                            (NP (PRP he))
+                            (VP
+                              (VBD was)
+                              (RB not)
+                              (NP (DT a) (NN citizen)))))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP
+        (VBD was)
+        (VP
+          (VBN required)
+          (S
+            (VP
+              (TO to)
+              (VP
+                (VB make)
+                (NP (PRP$ his) (NN application))
+                (PP (IN for) (NP (DT the) (NN removal)))
+                (PP
+                  (IN at)
+                  (NP
+                    (NP (DT the) (NN time))
+                    (PP
+                      (IN of)
+                      (S
+                        (VP
+                          (VBG entering)
+                          (NP (PRP$ his) (NN appearance)))))))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (NP (DT The) (NN law))
+    (VP
+      (VBD remained)
+      (PP (IN in) (NP (DT this) (NN condition)))
+      (SBAR
+        (IN until)
+        (S
+          (NP
+            (NP
+              (NP (DT an) (NN act))
+              (PP
+                (IN of)
+                (NP
+                  (NP (NNP Congress))
+                  (PP
+                    (IN of)
+                    (NP (NNP July) (CD 27) (, ,) (CD 1866))))))
+            (, ,)
+            (NP (NP (CD 14)) (NP (NNP Stat) (. .) (NNS 306)))
+            (, ,))
+          (VP
+            (VBD authorized)
+            (NP
+              (NP (DT an) (NN alien) (, ,) (CC or) (NN citizen))
+              (PP (IN of) (NP (DT a) (NN State) (JJ other))))
+            (PP
+              (IN than)
+              (NP
+                (NP (DT that))
+                (SBAR
+                  (WHPP (IN in) (WHNP (WDT which)))
+                  (S
+                    (NP (DT the) (NN suit))
+                    (VP
+                      (VBZ is)
+                      (VP
+                        (VBN brought)
+                        (, ,)
+                        (S
+                          (VP
+                            (TO to)
+                            (VP (VB remove) (NP (DT the) (NN cause)))))
+                        (, ,)
+                        (SBAR
+                          (IN though)
+                          (S
+                            (NP (EX there))
+                            (VP
+                              (VB be)
+                              (NP
+                                (NP (JJ other) (NNS defendants))
+                                (SBAR
+                                  (WHNP (WP who))
+                                  (S
+                                    (VP
+                                      (VBP are)
+                                      (NP
+                                        (NP (NNS citizens))
+                                        (PP
+                                          (IN of)
+                                          (NP
+                                            (NP (DT that) (NN State))
+                                            (, ,)
+                                            (SBAR
+                                              (WHADVP (WRB when))
+                                              (S
+                                                (NP (EX there))
+                                                (VP
+                                                  (MD can)
+                                                  (VP
+                                                    (VB be)
+                                                    (NP
+                                                      (NP
+                                                        (DT a)
+                                                        (JJ final)
+                                                        (NN
+                                                          determination))
+                                                      (PP
+                                                        (IN of)
+                                                        (NP
+                                                          (DT the)
+                                                          (NN
+                                                            controversy))))))))))))))))))))))))
+            (, ,)
+            (ADVP
+              (ADVP (RB so) (RB far))
+              (SBAR
+                (IN as)
+                (S (NP (PRP he)) (VP (VBZ is) (ADJP (JJ concerned)))))
+              (, ,)
+              (PP
+                (IN without)
+                (NP
+                  (NP (DT the) (NN presence))
+                  (PP
+                    (IN of)
+                    (NP (DT the) (JJ other) (NNS defendants))))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NN case))
+        (PP (IN of) (NP (NNP Babbitt) (CC v.) (NNP Clark))))
+      (, ,)
+      (NP (NN supra))
+      (, ,)
+      (PP (IN in) (NP (DT this) (NN court)))
+      (, ,))
+    (VP (VBZ is) (ADVP (RB also)) (PP (IN in) (NP (NN point))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (PP
+      (IN Under)
+      (NP
+        (NP (DT this) (NN construction))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT the) (NN statute))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S (VP (VBZ is) (ADJP (RB undoubtedly) (JJ sound)))))))))
+    (, ,)
+    (NP (EX there))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (DT no) (NN difficulty))
+        (PP (IN in) (S (VP (VBG deciding) (NP (DT this) (NN case)))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT (NP (NNP Mr.) (NNP A.M.)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (VP (VBN Decided) (NP (NNP January) (CD 5) (, ,) (CD 1885)))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT (NP (NN SPECK) (NNS Others) (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (NP
+    (NP
+      (NNP Mr.)
+      (NNP Edward)
+      (NNP S.)
+      (NNP Isham)
+      (CC and)
+      (NNP Mr.)
+      (NNP Huntingdon)
+      (NNP W.)
+      (NNP Jackson))
+    (PP (IN for) (NP (NNS appellants)))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN application))
+      (PP (IN for) (NP (DT this) (NN removal))))
+    (VP
+      (VBD was)
+      (VP
+        (VBN made)
+        (PP
+          (IN in)
+          (NP
+            (NP (DT the) (NNP February) (NN term))
+            (, ,)
+            (NP (CD 1884))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (NP
+    (NP (NNP APPEAL) (NNP FROM) (NNP THE) (NNP CIRCUIT) (NNP COURT))
+    (PP (IN OF) (NP (DT THE) (NNP UNITED) (NNS STATES)))
+    (PP (IN FOR) (NP (DT THE) (NNP NORTHERN) (NNP DISTRICT)))
+    (PP (IN OF) (NP (NNP ILLINOIS)))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN act))
+      (PP
+        (IN of)
+        (NP
+          (NP (CD 1875))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP
+                (VBZ governs)
+                (NP (DT the) (NN case))
+                (PP (IN before) (NP (PRP us))))))))
+      (, ,)
+      (SBAR
+        (IN while)
+        (S
+          (VP
+            (VBG superseding)
+            (PP
+              (IN by)
+              (NP (PRP$ its) (JJ general) (NNS provisions))))
+          (NP
+            (NP (RB nearly) (PDT all) (DT the) (NN removal))
+            (NP (NNS statutes)))))
+      (, ,))
+    (VP
+      (VBZ prescribes)
+      (NP
+        (NP (DT a) (NN rule))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP
+              (VBZ is)
+              (ADJP
+                (ADJP
+                  (CC neither)
+                  (RB so)
+                  (JJ stringent)
+                  (PP
+                    (IN as)
+                    (NP
+                      (NP (DT the) (NN act))
+                      (PP (IN of) (NP (CD 1789))))))
+                (, ,)
+                (CC nor)
+                (ADJP (RB so) (JJ lax)))
+              (PP
+                (IN as)
+                (NP
+                  (NP (DT those))
+                  (PP (IN of) (NP (CD 1866) (CC and) (CD 1867))))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT This) (NN suit))
+        (PP (IN in) (NP (NN equity)))
+        (, ,)
+        (VP
+          (VBD began)
+          (PP
+            (IN in)
+            (NP
+              (NP (DT the) (NNP State) (NNS courts))
+              (PP (IN of) (NP (NNP Illinois))))))
+        (, ,))
+      (VP
+        (VBD was)
+        (VP
+          (VBN removed)
+          (PP
+            (TO to)
+            (NP
+              (NP (DT the) (NNP Circuit) (NNP Court))
+              (PP (IN of) (NP (DT the) (NNP United) (NNPS States))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN thence))
+      (VP
+        (VBD remanded)
+        (PP (TO to) (NP (DT the) (NNP State) (NN court)))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (PP
+      (IN In)
+      (NP (NP (DT this) (NN class)) (PP (IN of) (NP (NNS cases)))))
+    (NP (NP (DT the) (NN petition)) (PP (IN for) (NP (NN removal))))
+    (VP
+      (MD could)
+      (VP
+        (VB be)
+        (VP
+          (VBN filed)
+          (PP (IN at) (NP (DT any) (NN time)))
+          (PP
+            (IN before)
+            (NP
+              (NP
+                (DT the)
+                (NN trial)
+                (CC or)
+                (JJ final)
+                (NN hearing))
+              (PP (IN of) (NP (DT the) (NN cause))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN term))
+      (SBAR
+        (WHPP (IN at) (WHNP (WDT which)))
+        (S
+          (NP (DT the) (NN case))
+          (VP
+            (MD could)
+            (VP (VB be) (VP (ADVP (RB first)) (VBN tried)))))))
+    (VP
+      (VBZ is)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VP
+              (VP
+                (VB be)
+                (VP
+                  (VBN ascertained)
+                  (PP (IN by) (NP (DT these) (NNS rules)))))
+              (, ,)
+              (CC and)
+              (VP
+                (RB not)
+                (PP
+                  (IN by)
+                  (NP
+                    (NP (DT the) (NN manner))
+                    (SBAR
+                      (WHPP (IN in) (WHNP (WDT which)))
+                      (S
+                        (NP (DT the) (NNS parties))
+                        (VP
+                          (VBP have)
+                          (VP
+                            (VBN complied)
+                            (PP (IN with) (NP (PRP them)))))))))))
+            (, ,)
+            (CC or)
+            (VP
+              (VB have)
+              (VP
+                (VBN been)
+                (VP
+                  (VBN excused)
+                  (PP (IN for) (NP (NN non-compliance)))
+                  (PP
+                    (PP (IN by) (NP (DT the) (NN court)))
+                    (CC or)
+                    (PP
+                      (IN by)
+                      (NP
+                        (NP (NN stipulation))
+                        (PP (IN among) (NP (PRP themselves)))))))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (NP (DT These) (NNS words))
+    (VP
+      (VBP have)
+      (NP (DT no) (NN meaning))
+      (SBAR
+        (IN if)
+        (S
+          (NP (PRP they))
+          (VP
+            (VBP do)
+            (RB not)
+            (VP
+              (VB mean)
+              (NP (DT the) (JJ first) (NN term))
+              (PP
+                (IN after)
+                (NP
+                  (NP (DT the) (NN commencement))
+                  (PP
+                    (IN of)
+                    (NP
+                      (NP (DT the) (NN suit))
+                      (SBAR
+                        (WHPP (IN at) (WHNP (WDT which)))
+                        (S
+                          (NP (DT a) (NN trial))
+                          (VP (VBD was) (PP (IN in) (NP (NN order))))))))))))))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (JJ such) (NN trial))
+          (VP
+            (VBD was)
+            (NP
+              (NP (DT a) (NN thing))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (NP
+                    (DT the)
+                    (NN urging)
+                    (CC or)
+                    (NN pursuing)
+                    (NN party))
+                  (VP
+                    (VBD had)
+                    (NP
+                      (DT a)
+                      (NN right)
+                      (S
+                        (VP
+                          (VP (TO to) (VP (VB look) (PP (IN for))))
+                          (, ,)
+                          (CC and)
+                          (VP
+                            (TO to)
+                            (VP
+                              (VB put)
+                              (NP (PRP$ his) (NN adversary))
+                              (PP (TO to) (NP (DT a) (NN showing)))
+                              (SBAR
+                                (IN if)
+                                (S
+                                  (NP (PRP he))
+                                  (VP
+                                    (VBD desired)
+                                    (NP (DT a) (NN continuance))))))))))))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (NP (DT The) (NNS defendants))
+    (VP
+      (VBD appealed)
+      (PP
+        (IN from)
+        (NP
+          (NP (DT the) (NN order))
+          (VP (VBG remanding) (NP (PRP it))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ only) (NN reason))
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (PRP it))
+          (VP (VBD was) (RB not) (ADJP (RB so) (VBN tried))))))
+    (, ,)
+    (VP
+      (VBD was)
+      (NP
+        (NP (DT the) (NN time))
+        (PP
+          (IN beyond)
+          (NP
+            (NP (DT that))
+            (PP
+              (IN of)
+              (NP
+                (NP (DT the) (JJ usual) (NN course))
+                (VP
+                  (VBN prescribed)
+                  (PP
+                    (IN by)
+                    (NP
+                      (NP (NN rule))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP
+                            (VBD was)
+                            (VP
+                              (VBN obtained)
+                              (PP
+                                (PP
+                                  (IN by)
+                                  (NP
+                                    (NP (NN order))
+                                    (PP
+                                      (IN of)
+                                      (NP (DT the) (NN court)))))
+                                (CC or)
+                                (PP
+                                  (IN by)
+                                  (NP
+                                    (NP (NN agreement))
+                                    (PP
+                                      (IN of)
+                                      (NP (DT the) (NNS parties)))))))))))))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/537e17b44effc621.xml	(ROOT
+  (NP
+    (NP
+      (NNP PULLMAN)
+      (NNP PALACE)
+      (NNP CAR)
+      (NNP COMPANY)
+      (CC v.)
+      (NNP SPECK))
+    (, ,)
+    (NP
+      (NP (CD 113) (NNP U.S.) (CD 84))
+      (PRN (-LRB- -LRB-) (NP (NNP 1885)) (-RRB- -RRB-))
+      (NP
+        (NNP PULLMAN)
+        (NNP PALACE)
+        (NNP CAR)
+        (NNP COMPANY)
+        (NNPS Others)
+        (NNP v)))
+    (. .)))
+supreme_court_of_the_united_states/documents/48115b815fb77236.xml	(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN motion))
+      (PP
+        (IN of)
+        (NP
+          (NP (NN petitioner))
+          (PP (IN for) (NP (NN leave)))
+          (S
+            (VP
+              (TO to)
+              (VP
+                (VB proceed)
+                (PP (IN in) (NP (FW forma) (NNS pauperis)))))))))
+    (VP (VBZ is) (VP (VBN denied)))
+    (. .)))
+supreme_court_of_the_united_states/documents/48115b815fb77236.xml	(ROOT
+  (S
+    (NP (NNP Justice) (NNP Sotomayor))
+    (VP
+      (VBD took)
+      (NP (DT no) (NN part))
+      (PP
+        (IN in)
+        (NP
+          (NP (DT the) (NN consideration) (CC or) (NN decision))
+          (PP (IN of) (NP (DT this) (NN motion))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/48115b815fb77236.xml	(ROOT
+  (NP
+    (NP
+      (NNP OPARAJI)
+      (CC v.)
+      (NNP ATLANTIC)
+      (NNP CONTAINER)
+      (NNP LINE))
+    (, ,)
+    (NP
+      (NP (CD 10-7851))
+      (PRN
+        (-LRB- -LRB-)
+        (NP (NNP U.S.) (CD 2-22-2011))
+        (-RRB- -RRB-))
+      (NP (NNP 131) (NNP S.Ct)))
+    (. .)))
+supreme_court_of_the_united_states/documents/48115b815fb77236.xml	(ROOT
+  (NP
+    (NP
+      (NNP 1554)
+      (NNP MAURICE)
+      (NNP OPARAJI)
+      (CC v.)
+      (NNP ATLANTIC)
+      (NNP CONTAINER)
+      (NNP LINE))
+    (, ,)
+    (NP
+      (NP (NNP ET) (NNP AL) (NNP No.) (NNP 10-7851))
+      (NP (NNP February) (CD 22) (, ,) (CD 2011)))
+    (. .)))
+supreme_court_of_the_united_states/documents/48115b815fb77236.xml	(ROOT
+  (S
+    (NP (NNP Petitioner))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN allowed)
+        (PP
+          (IN until)
+          (NP (NNP March) (CD 15) (, ,) (CD 2011) (, ,)))
+        (PP
+          (IN within)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP
+                (VP
+                  (TO to)
+                  (VP
+                    (VB pay)
+                    (NP
+                      (NP
+                        (NP (DT the) (VBG docketing) (NN fee))
+                        (VP
+                          (VBN required)
+                          (PP (IN by) (NP (NNP Rule) (CD 38)))))
+                      (PRN (-LRB- -LRB-) (X (SYM a)) (-RRB- -RRB-)))))
+                (CC and)
+                (VP
+                  (TO to)
+                  (VP
+                    (VB submit)
+                    (NP
+                      (NP (DT a) (NN petition))
+                      (PP (IN in) (NP (NN compliance))))
+                    (PP
+                      (IN with)
+                      (NP
+                        (NP (NNP Rule) (NNP 33.1))
+                        (PP
+                          (IN of)
+                          (NP
+                            (NP (DT the) (NNPS Rules))
+                            (PP (IN of) (NP (DT this) (NNP Court)))))))))))))))
+    (. .)))
+supreme_court_of_the_united_states/documents/48115b815fb77236.xml	(ROOT (NP (NNP Page) (NNP 3)))
