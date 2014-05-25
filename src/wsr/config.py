@@ -11,7 +11,13 @@ Date: 2014-05-24
 import os
 
 # Path configuration
-BASE_PATH="./"
-DATA_PATH=os.path.join(BASE_PATH, "data")
-SCOTUS_FILE_NAME=os.path.join(DATA_PATH,
+BASE_PATH = "/home/mjbommar/workspace/wellsettled-research/"
+DATA_PATH = os.path.join(BASE_PATH, "data")
+
+# Dataset paths
+SCOTUS_FILE_NAME = os.path.join(DATA_PATH,
                               "supreme_court_of_the_united_states.zip")
+
+# QA paths
+QA_PATH = os.path.join(BASE_PATH, "qa")
+QA_SCOTUS_PATH = os.path.join(QA_PATH, "scotus")
