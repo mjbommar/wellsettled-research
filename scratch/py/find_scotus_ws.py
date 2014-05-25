@@ -22,7 +22,7 @@ if __name__ == "__main__":
                                 'w', 'utf8')
 
     # Iterate over documents
-    for file_name in scotus.scotus_document_list[0:100]:
+    for file_name in scotus.scotus_document_list:
         # Get the XML document and sentence list
         try:
             doc = read_xml_document(scotus.read_document(file_name))
