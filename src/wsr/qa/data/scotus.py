@@ -129,10 +129,10 @@ def test_sentence_tokenizer(scotus):
     for file_name in scotus.scotus_document_list[0:num_sample]:
         # Get the document and tokenize
         doc = read_xml_document(scotus.read_document(file_name)) 
-        file_sentences = [s.strip().replace("\n", "").replace("\r", "") \
-                             for s in sentence_tokenizer\
+        file_sentences = [sent.strip().replace("\n", "").replace("\r", "") \
+                             for sent in sentence_tokenizer\
                              .sentences_from_text(read_xml_opinion(doc))]
-        sentence_list.extend([(file_name, s) for s in file_sentences])
+        sentence_list.extend([(file_name, sent) for sent in file_sentences])
     
     return sentence_list 
 
@@ -157,8 +157,8 @@ def test_sentence_parser(scotus):
     for file_name in scotus.scotus_document_list[0:num_sample]:
         # Get the document and tokenize
         doc = read_xml_document(scotus.read_document(file_name)) 
-        file_sentences = [s.strip().replace("\n", "").replace("\r", "") \
-                             for s in sentence_tokenizer\
+        file_sentences = [sent.strip().replace("\n", "").replace("\r", "") \
+                             for sent in sentence_tokenizer\
                              .sentences_from_text(read_xml_opinion(doc))]
         
         #TODO: Decide if we want to batch parse with more RAM.

@@ -4,7 +4,7 @@ The :mod:`wsr.process.tokenize` provides methods to tokenize paragraphs,
 sentences, and words.
 
 Author: Michael J Bommarito II <michael@bommaritollc.com>
-Date: 2014-05-24 
+Date: 2014-05-24
 """
 
 # Get the tokenizers
