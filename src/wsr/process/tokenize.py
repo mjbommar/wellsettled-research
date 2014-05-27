@@ -7,9 +7,15 @@ Author: Michael J Bommarito II <michael@bommaritollc.com>
 Date: 2014-05-24
 """
 
-# Get the tokenizers
+# NLTK imports
+from nltk.corpus import stopwords
 from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktWordTokenizer, \
     PunktParameters
+
+# Import stopword list
+
+english_stopwords = stopwords.words('english')
+
 
 # Customizer sentence tokenizer
 punkt_param = PunktParameters()
@@ -36,4 +42,4 @@ punkt_param.abbrev_types = [x.lower().strip() for x in \
 
 # Build word and sentence tokenizer
 sentence_tokenizer = PunktSentenceTokenizer(punkt_param)
-word_tokenizer = PunktWordTokenizer(punkt_param)
+word_tokenizer = PunktWordTokenizer()
