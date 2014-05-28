@@ -13,7 +13,6 @@ from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktWordTokenizer, \
     PunktParameters
 
 # Import stopword list
-
 english_stopwords = stopwords.words('english')
 
 

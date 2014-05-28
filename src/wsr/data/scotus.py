@@ -15,7 +15,26 @@ import dateutil.parser
 import lxml.etree
 import zipfile
 
-# WSR imports
+
+# Bad element list
+bad_element_list = [#"center",
+                    #"caption",
+                    "page_number",
+                    #"italic",
+                    #"posture",
+                    #"block_quote",
+                    #"bold",
+                    #"cross_reference",
+                    #"superscript",
+                    #"underline",
+                    "footnote_reference",
+                    "footnote_body",
+                    "footnote_number",
+                    #"subscript",
+                    "img",
+                    #"strikethrough",
+                    ]
+
 
 def get_text(element):
     '''
@@ -107,15 +126,21 @@ def read_xml_opinion(xml_doc):
     """
     Read the opinion text section of an XML document.
     """
-    
+
     # Parse only the opinion_text elements
     if not xml_doc:
         return ""
-    
+
     for element in list(xml_doc):
         if element.tag == "opinion_text":
+            # Strip bad tags from the element before getting text
+            for bad_tag in bad_element_list:
+                for child in element.xpath('.//{0}'.format(bad_tag)):
+                    child.getparent().remove(child)
+
+            # Now return the text
             return get_text(element)
-    
+
     return ""
 
 

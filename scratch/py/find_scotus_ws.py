@@ -29,7 +29,8 @@ if __name__ == "__main__":
             sentence_list = [s.strip().replace("\n", "").replace("\r", "") \
                              for s in sentence_tokenizer\
                              .sentences_from_text(read_xml_opinion(doc))]
-        except Exception:
+        except Exception, E:
+            print(E)
             continue
 
         # Iterate over sentences and find matches
