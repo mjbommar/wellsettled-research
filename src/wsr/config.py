@@ -8,6 +8,7 @@ Date: 2014-05-24
 """
 
 # Standard imports
+import glob
 import os
 
 # Path configuration
@@ -20,6 +21,7 @@ RESULTS_PATH = os.path.join(BASE_PATH, "results")
 SCOTUS_FILE_NAME = os.path.join(DATA_PATH,
                               "supreme_court_of_the_united_states.zip")
 
+CIRCUIT_FILE_NAME_LIST = glob.glob(os.path.join(DATA_PATH, '*circuit.zip'))
 # QA paths
 QA_PATH = os.path.join(BASE_PATH, "qa")
 QA_SCOTUS_PATH = os.path.join(QA_PATH, "scotus")
@@ -28,3 +30,6 @@ try:
     from .local_config import *
 except ImportError:
     pass
+
+
+
