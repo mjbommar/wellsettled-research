@@ -27,4 +27,5 @@ STANFORD_GRAMMAR = os.path.join(BASE_PATH,
                                 'englishPCFG.ser.gz')
 
 sentence_parser = nltk.parse.stanford.StanfordParser(model_path=\
-                                                     STANFORD_GRAMMAR)
+                                                     STANFORD_GRAMMAR,
+                                                     java_options='-mx4000m')
