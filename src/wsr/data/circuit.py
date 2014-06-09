@@ -167,16 +167,16 @@ class Circuit(object):
         # Return the buffer
         return self.circuit_zip_file.read(file_name)
 
-    def __init__(self):
+    def __init__(self, file_name):
         """
         Constructor
         """
 
         # Set Circuit file path
-        self.circuit_file_path = CIRCUIT_FILE_NAME_LIST[0]
+        self.circuit_zip_path_list = file_name
 
         # Circuit ZIP file
-        self.circuit_zip_file = zipfile.ZipFile(self.circuit_file_path)
+        self.circuit_zip_file = zipfile.ZipFile(file_name)
 
         # Circuit ZIP file list
         self.circuit_file_list = []

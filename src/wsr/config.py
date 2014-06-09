@@ -22,6 +22,7 @@ SCOTUS_FILE_NAME = os.path.join(DATA_PATH,
                               "supreme_court_of_the_united_states.zip")
 
 CIRCUIT_FILE_NAME_LIST = glob.glob(os.path.join(DATA_PATH, '*circuit.zip'))
+
 # QA paths
 QA_PATH = os.path.join(BASE_PATH, "qa")
 QA_SCOTUS_PATH = os.path.join(QA_PATH, "scotus")
