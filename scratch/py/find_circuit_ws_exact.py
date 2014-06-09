@@ -4,7 +4,7 @@ import os
 
 # WSR imports
 from wsr.data.circuit import Circuit, read_xml_document, read_xml_opinion
-from wsr.config import SCRATCH_PATH
+from wsr.config import SCRATCH_PATH, CIRCUIT_FILE_NAME_LIST
 from wsr.process.tokenize import sentence_tokenizer
 from wsr.process.parse import sentence_parser
 from wsr.process.stem import process_sentence
@@ -38,9 +38,6 @@ def check_sentence_match(stems):
 
 
 if __name__ == "__main__":
-    # Load the dataset
-    circuit = Circuit()
-
     # Store the sentence list
     ws_list = []
 
@@ -49,36 +46,41 @@ if __name__ == "__main__":
                                              "circuit_exact_sentence_list.csv"),
                                 'w', 'utf8')
 
-    # Iterate over documents
-    for file_name in circuit.circuit_document_list:
-        # Get the XML document and sentence list
-        try:
-            doc = read_xml_document(circuit.read_document(file_name))
-            sentence_list = [s.strip().replace("\n", "").replace("\r", "") \
-                             for s in sentence_tokenizer\
-                             .sentences_from_text(read_xml_opinion(doc))]
-        except Exception, E:
-            print(E)
-            continue
-
-        for sentence in sentence_list:
-            # Process the sentences
-            sentence_stems = process_sentence(sentence)
+    for circuit_file in CIRCUIT_FILE_NAME_LIST:
+        # Load the dataset
+        circuit = Circuit(circuit_file)
+        
+        
+        # Iterate over documents
+        for file_name in circuit.circuit_document_list:
+            # Get the XML document and sentence list
             try:
-                is_match = check_sentence_match(sentence_stems)
-                
-                if is_match:
-                    # Write
-                    sentence_file.write(u'{0}\t{1}\n'\
-                                        .format(file_name, unicode(sentence)\
-                                                .replace("\n", " ")\
-                                                .replace("\t", " ")))
+                doc = read_xml_document(circuit.read_document(file_name))
+                sentence_list = [s.strip().replace("\n", "").replace("\r", "") \
+                                     for s in sentence_tokenizer\
+                                     .sentences_from_text(read_xml_opinion(doc))]
+            except Exception, E:
+                print(E)
+                continue
+            
+            for sentence in sentence_list:
+                # Process the sentences
+                sentence_stems = process_sentence(sentence)
+                try:
+                    is_match = check_sentence_match(sentence_stems)
 
-            except Exception, e:
-                print(e)
-                print(sentence_stems)
-
-
+                    if is_match:
+                        # Write
+                        sentence_file.write(u'{0}\t{1}\n'\
+                                                .format(file_name, unicode(sentence)\
+                                                            .replace("\n", " ")\
+                                                            .replace("\t", " ")))
+                        
+                except Exception, e:
+                    print(e)
+                    print(sentence_stems)
+                    
+                    
 
     # Close file
     sentence_file.close()
