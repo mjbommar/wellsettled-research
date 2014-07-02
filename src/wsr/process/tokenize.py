@@ -44,7 +44,9 @@ punkt_param.abbrev_types = [x.lower().strip() for x in \
                                      'f.d.i.c', 'f.e.r.c', 'f.r.e', 'n.l.r.b',
                                      'pub.l', 'i.l.m', 'u.n.t.s', 'u.s.s', 'tex',
                                      'd.c', 'r.g.w.r', 's.ct', 'cert', 'den', 'w.r',
-                                     'ed', 'stat', 'c.c.a', 'supp'])]
+                                     'ed', 'stat', 'c.c.a', 'supp', 'l.ed', 'u.s.',
+                                     'u.s.app.d.c', 'e.d.wash', 'e.d', 's.w', 'c.i.r',
+                                     'u.s.l.w', 'rev', 'stats', 'rev.stats'])]
 
 # Build word and sentence tokenizer
 sentence_tokenizer = PunktSentenceTokenizer(punkt_param)
