@@ -25,7 +25,7 @@ def process_sentence(sentence):
     tokens = [word.strip(string.whitespace).strip(string.punctuation) \
                       for word in word_tokenizer.tokenize(sentence)]
     nsw_tokens = [token for token in tokens if token \
-                            not in english_stopwords]
+                            not in english_stopwords and len(token.strip()) > 0]
     
     # Stem 
     stems = [stemmer.stem(token).lower() for token in nsw_tokens]
