@@ -109,6 +109,6 @@ if __name__ == "__main__":
                         # Log
                         record = (file_name, str(phrase_mapping[phrase]), ",".join(sentence_stems))
                         pprint(record)
-                        instance_file.write("\t".join(record))
+                        instance_file.write("\t".join(record) + "\n")
     # Close file
     instance_file.close()

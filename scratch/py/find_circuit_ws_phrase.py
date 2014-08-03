@@ -78,7 +78,7 @@ if __name__ == "__main__":
         circuit = Circuit(circuit_file)
 
         # Iterate over documents
-        for file_name in circuit.scotus_document_list:
+        for file_name in circuit.circuit_document_list:
             # Get the XML document and sentence list
             try:
                 doc = read_xml_document(circuit.read_document(file_name))
@@ -110,6 +110,6 @@ if __name__ == "__main__":
                             # Log
                             record = (file_name, str(phrase_mapping[phrase]), ",".join(sentence_stems))
                             pprint(record)
-                            instance_file.write("\t".join(record))
+                            instance_file.write("\t".join(record) + "\n")
     # Close file
     instance_file.close()
