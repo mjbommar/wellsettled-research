@@ -154,7 +154,7 @@ class District(object):
         Load ZIP data.
         """
         # Load the list of all files
-        self.district_file_list = self.circuit_zip_file.namelist()
+        self.district_file_list = self.district_zip_file.namelist()
 
         # Identify the list of documents that we'd actually read.
         self.district_document_list = sorted([file_name for file_name in \

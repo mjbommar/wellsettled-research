@@ -53,7 +53,6 @@ if __name__ == "__main__":
                      'r', 'utf8') as phrase_file:
         for line in phrase_file:
             phrase_list.append(tuple(line.strip().split(',')))
-            print(phrase_list[-1])
 
     # Output to file
     instance_file = codecs.open(os.path.join(SCRATCH_PATH, "results",
@@ -78,7 +77,7 @@ if __name__ == "__main__":
         district = District(district_file)
 
         # Iterate over documents
-        for file_name in district.district_document_list
+        for file_name in district.district_document_list:
             # Get the XML document and sentence list
             try:
                 doc = read_xml_document(district.read_document(file_name))
