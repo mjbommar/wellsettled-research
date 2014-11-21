@@ -3,6 +3,7 @@ import codecs
 import csv
 import difflib
 import os
+import pandas
 import re
 from pprint import pprint
 
@@ -35,7 +36,7 @@ if __name__ == "__main__":
     sentence_file = codecs.open('/nfs-data/datasets/wellsettled/sentences_20141028.txt', 'r', 'utf8', 'ignore')
 
     # Iterate over sentence file
-    max_lines = 10000
+    max_lines = 10000000000000
     current_line = 0
 
     ws_matches = []
@@ -44,6 +45,10 @@ if __name__ == "__main__":
         # Check line
         if current_line < max_lines:
             current_line += 1
+
+            if current_line % 10000 == 0:
+                pandas.DataFrame(ws_matches).to_csv('ws_matches.csv', encoding='utf-8')
+
         else:
             break
 
@@ -75,7 +80,7 @@ if __name__ == "__main__":
                     print("-")
                     ws_matches.append((sentence_id, case_caption, case_date, phrase_mapping[phrase_stems]))
 
-    print(ws_matches)
+    pandas.DataFrame(ws_matches).to_csv('ws_matches.csv', encoding='utf-8')
 
     # Close file
     sentence_file.close()
